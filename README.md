@@ -10,7 +10,7 @@
 
 ## Tema: CURSOS
 ### Descripción
-Un establecimiento educativo nos solicito el desarrollo de una pagina web para gestionar sus cursos. Esto le permitira a un alumno registrarse, inscribirse y obtener su estado en cada curso. A los docentes, crear y dictar cursos, asi como calificar a los alumnos de los mismos. Y a el comité, Aprobar el dictado de un nuevo curso. Cada curso cuenta con talleres que se dictan a lo largo del curso, el promedio de la calificacion de un alumno en todos los talleres del curso, significara su calificacion en el curso (pudiendo esta ultima, ser modificada por el docente). Cada curso tendra las siguientes caracteristicas: Un nombre y una descripcion, un docente asignado, una capacidad maxima de alumnos y una fecha de inicio y fin, y un conjunto de talleres que este incluye. Cada taller tendra: Un nombre, un temario y un nivel de dificultad.
+Un establecimiento educativo nos solicito el desarrollo de una pagina web para gestionar sus cursos. Esto le permitira a un alumno registrarse, inscribirse y obtener su estado en cada curso. A los docentes, crear y dictar cursos, asi como calificar a los alumnos de los mismos. Cada curso cuenta con talleres que se dictan a lo largo del curso, el promedio de la calificacion de un alumno en todos los talleres del curso, significara su calificacion en el curso (pudiendo esta ultima, ser modificada por el docente). El sistema deberá poder listar todos los cursos, talleres, docentes y alumnos, y permitir a los usuarios con acceso editarlos, añadir otros, o borrarlos.
 
 
 ### Modelo
