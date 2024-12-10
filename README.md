@@ -2,7 +2,7 @@
 
 ### Integrantes
 * 47858 - Grau, Juan Bautista
-* 12345 - Rozas, Alvaro
+* 49703 - Rozas, Alvaro
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
