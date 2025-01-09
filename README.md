@@ -5,7 +5,7 @@
 * 49703 - Rozas, Alvaro
 
 ### Repositorios
-* [frontend app]([[http://hyperlinkToGihubOrGitlab](https://github.com/bautigr02/Frontend-Cursos.git)](https://github.com/bautigr02/Frontend-Cursos.git))
+* [frontend app](https://github.com/bautigr02/Frontend-Cursos.git)
 * [backend app](http://hyperlinkToGihubOrGitlab)
 
 ## Tema: CURSOS
