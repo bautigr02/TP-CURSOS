@@ -6,7 +6,7 @@
 
 ### Repositorios
 * [frontend app](https://github.com/bautigr02/Frontend-Cursos.git)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [backend app](https://github.com/bautigr02/Backend-Cursos.git)
 
 ## Tema: CURSOS
 ### Descripción
