@@ -14,9 +14,9 @@ Un establecimiento educativo nos solicito el desarrollo de una pagina web para g
 
 
 ### Modelo
-![Mod_Dominio_SistCursos-Original drawio](https://github.com/user-attachments/assets/b38fddc2-964b-4104-ad29-ca6f1ec0c0a6)
+![DER-TP-CURSOS-DER_TP_CURSOS drawio](https://github.com/user-attachments/assets/62ca8f0d-0ac2-446e-afd8-4bbe7a7d6989)
 
-Link al diagrama: https://drive.google.com/file/d/1AzzSHU7jsQmI2H_68sejpJ69oS2_mPgp/view?usp=sharing
+Link al diagrama: https://drive.google.com/file/d/1WFVkDVlCbFTYmVaeQWR-5ikYedEHcG_6/view?usp=sharing
 
 ## Alcance Funcional 
 
