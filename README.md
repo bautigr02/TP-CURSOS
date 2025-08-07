@@ -14,7 +14,7 @@ Un establecimiento educativo nos solicito el desarrollo de una pagina web para g
 
 
 ### Modelo
-![DER-TP-CURSOS-DER_TP_CURSOS drawio](https://github.com/user-attachments/assets/62ca8f0d-0ac2-446e-afd8-4bbe7a7d6989)
+![DER-TP-CURSOS-DER_TP_CURSOS drawio](https://github.com/user-attachments/assets/c90d92af-9848-4a05-b0ad-6dc3dbe43596)
 
 Link al diagrama: https://drive.google.com/file/d/1WFVkDVlCbFTYmVaeQWR-5ikYedEHcG_6/view?usp=sharing
 
