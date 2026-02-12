@@ -36,4 +36,4 @@ Link al diagrama: https://drive.google.com/file/d/1WFVkDVlCbFTYmVaeQWR-5ikYedEHc
 |:-|:-|
 |Listado| 1. Listado de talleres que se van a dictar o se estan dictando, ordenados alfabeticamente. <br> 2. Listado de cursos a dictar/dictandose por el docente. <br> 3. Listado de talleres a dictar/dictados por el docente. <br> 4.Listado de Alumnos inscriptos a un curso seleccionado. <br> 5. Listado de alumnos inscriptos a un taller seleccionado. <br>. 6. Listado de historial de talleres dictados por el docente.|
 |CUU/Epic|1. Cancelar inscripcion a un curso<br>2. Cancelar inscripcion a un taller <br> 3.Crear curso y sus talleres asociados. <br> 4. Cancelar curso y sus talleres asociados. <br> 5.Modificar curso/taller a dictar. <br> 6.Asignar nota de taller a alumno, y calcular automaticamente la nota de final de curso. <br> 7. Modificar nota de forma manual por docente.|
-|Otros| 1. Generar Certificado para alumnos que hayan aprobado un curso.|
+|Otros| 1. Generar Certificado para alumnos que hayan aprobado un curso. <br> 2. Alertas/Recordatorios a docente para cargar notas de talleres <br> 3.Visualizacion dinamica de cupos por curso. <br>|
