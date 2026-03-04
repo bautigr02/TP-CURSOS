@@ -20,20 +20,11 @@ Link al diagrama: https://drive.google.com/file/d/1WFVkDVlCbFTYmVaeQWR-5ikYedEHc
 
 ## Alcance Funcional 
 
-### Alcance Mínimo
-
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Alumno<br>2. CRUD Docente<br>3. CRUD Aula<br>4. CRUD Curso<br>5. CRUD Taller<br>|
+|CRUD |1. CRUD Alumno<br>4. CRUD Curso<br>5. CRUD Taller<br>|
 |CRUD dependiente|1. CRUD Taller {depende de} CRUD Curso<br>|
 |Listado<br>+<br>detalle| 1. Listado de cursos ordenado por fecha de comienzo, muestra nombre y capacidad del curso => detalle CRUD Curso<br> 2. Listado de cursos a los que se inscribio un alumno, ordenado por fecha de inicio del curso, muestra nombre de curso, fecha inicio y fin del curso, nombre del usuario y fecha de inscripcion => detalle muestra datos de la inscripcion, del usuario y del curso|
-|CUU/Epic|1. Registrar inscripcion a un curso<br>2. Registrar inscripcion a un taller|
-
-
-### Alcance Adicional 
-
-|Req|Detalle|
-|:-|:-|
-|Listado| 1. Listado de talleres que se van a dictar o se estan dictando, ordenados alfabeticamente. <br> 2. Listado de cursos a dictar/dictandose por el docente. <br> 3. Listado de talleres a dictar/dictados por el docente. <br> 4.Listado de Alumnos inscriptos a un curso seleccionado. <br> 5. Listado de alumnos inscriptos a un taller seleccionado. <br>. 6. Listado de historial de talleres dictados por el docente.|
-|CUU/Epic|1. Cancelar inscripcion a un curso<br>2. Cancelar inscripcion a un taller <br> 3.Crear curso y sus talleres asociados. <br> 4. Cancelar curso y sus talleres asociados. <br> 5.Modificar curso/taller a dictar. <br> 6.Asignar nota de taller a alumno, y calcular automaticamente la nota de final de curso. <br> 7. Modificar nota de forma manual por docente.|
-|Otros| 1. Generar Certificado para alumnos que hayan aprobado un curso. <br> 2. Alertas/Recordatorios a docente para cargar notas de talleres <br> 3.Visualizacion dinamica de cupos por curso. <br>|
+|CUU/Epic|1. Registrar inscripcion a un curso.<br>2. Registrar inscripcion a un taller. <br> 3. Cancelar inscripcion a un curso.<br> 4. Cancelar inscripcion a un taller. <br> 5. Crear curso y sus talleres asociados. <br> 6. Cancelar curso y sus talleres asociados. <br> 7. Modificar curso/taller a dictar. <br> 8. Asignar nota de taller a alumno, y calcular automaticamente la nota de final de curso. <br> 9. Modificar nota de alumno en curso de forma manual por docente.|
+|Listado| 1. Listado de talleres que se van a dictar o se estan dictando, ordenados alfabeticamente. <br> 2. Listado de cursos a dictar/dictandose por el docente. <br> 3. Listado de talleres a dictar/dictados por el docente. <br> 4. Listado de Alumnos inscriptos a un curso seleccionado. <br> 5. Listado de alumnos inscriptos a un taller seleccionado. <br> 6. Listado de historial de talleres dictados por el docente.|
+|Otros|1. Read & Update Docente. <br>2. Read Aula. <br> 3. Generar Certificado para alumnos que hayan aprobado un curso. <br> 4. Alertas/Recordatorios a docente para cargar notas de talleres. <br> 5. Visualizacion dinamica de cupos por curso. <br>|
