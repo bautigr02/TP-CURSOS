@@ -9,8 +9,14 @@
 * [backend app](https://github.com/bautigr02/Backend-Cursos.git)
   
 ## Tema: CURSOS
+
 ### Descripción
 Un establecimiento educativo nos solicito el desarrollo de una pagina web para gestionar sus cursos. Esto le permitira a un alumno registrarse, inscribirse y obtener su estado en cada curso. A los docentes, crear y dictar cursos, asi como calificar a los alumnos de los mismos. Cada curso cuenta con talleres que se dictan a lo largo del curso, el promedio de la calificacion de un alumno en todos los talleres del curso, significara su calificacion en el curso (pudiendo esta ultima, ser modificada por el docente). El sistema deberá poder listar todos los cursos, talleres y alumnos, y permitir a los usuarios con acceso editarlos, añadir otros, o borrarlos.
+
+![ImagenReadmeGithub](https://github.com/user-attachments/assets/7f867d6d-2950-446f-8ec4-a3aa1ba42590)
+
+### Link a la pagina web: [curSoftware.vercel.app](https://cursoftware.vercel.app/)
+
 
 
 ### Modelo
